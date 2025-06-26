@@ -1,1 +1,2 @@
 At Macy's, I was responsible for managing AWS infrastructure provisioning EC2, VPC, ELB, Route 53, and setting up CI/CD pipelines using Jenkins integrated with Maven, SonarQube, JFrog Artifactory, and Ansible. I also worked with ECS, ECR, and automated deployments using Ansible and Terraform.
+I work closely with developers to manage CI/CD pipelines, troubleshoot build failures, and ensure smooth code releases.
