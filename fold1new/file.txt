@@ -1,2 +1,3 @@
 At Macy's, I was responsible for managing AWS infrastructure provisioning EC2, VPC, ELB, Route 53, and setting up CI/CD pipelines using Jenkins integrated with Maven, SonarQube, JFrog Artifactory, and Ansible. I also worked with ECS, ECR, and automated deployments using Ansible and Terraform.
 I work closely with developers to manage CI/CD pipelines, troubleshoot build failures, and ensure smooth code releases.
+At Nike, I focused on Azure DevOps. I deployed applications into AKS using Helm, implemented Terraform and Azure Bicep for IaC, integrated security using Azure Security Center and Sentinel, and managed CI/CD pipelines using Azure Pipelines and GitHub Actions.
